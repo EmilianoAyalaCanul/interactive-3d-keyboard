@@ -1,2 +1,11 @@
-# interactive-3d-keyboard
-Interactive 3D keyboard built with Blender and Three.js. This project focuses on modeling, lighting, and real-time rendering with a futuristic neon style.
+## Tech Stack
+- Blender (3D modeling)
+- Three.js (WebGL rendering)
+- JavaScript
+- GSAP (animations)
+
+## Features
+- 3D keyboard model
+- Neon lighting effects
+- Real-time rendering
+- Interactive elements (coming soon)
